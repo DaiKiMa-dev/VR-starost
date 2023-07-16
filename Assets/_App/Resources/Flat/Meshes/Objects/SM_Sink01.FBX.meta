@@ -3,7 +3,12 @@ guid: feb210dc96601e24da2c099003179111
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Sink01
+    second: {fileID: 2100000, guid: d131dc16afcf7f845ab1db3442f75f4b, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

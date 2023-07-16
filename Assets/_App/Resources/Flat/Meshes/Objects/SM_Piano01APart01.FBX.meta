@@ -3,7 +3,12 @@ guid: 00676b33a082f9e439c1256580e38fb3
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Piano01
+    second: {fileID: 2100000, guid: 2e7779c28ea3fb24cbfb2d970e66b456, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

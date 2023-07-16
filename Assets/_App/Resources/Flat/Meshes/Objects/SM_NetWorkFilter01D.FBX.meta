@@ -3,7 +3,17 @@ guid: a1903b244e05971429ef82227fb38215
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_NetworkFilter01
+    second: {fileID: 2100000, guid: 3e7d4d45e85c88b43b4fcb2c47ec36af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Wire01
+    second: {fileID: 2100000, guid: eace8434600e23e4394240afbc2c25ea, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

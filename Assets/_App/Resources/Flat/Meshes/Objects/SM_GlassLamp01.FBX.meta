@@ -3,7 +3,12 @@ guid: 1168c8a6dbe202644ab9db12ce26803e
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_GlassLamp01Off
+    second: {fileID: 2100000, guid: 69b55ce14378bff4c88b6fd561ce2d8a, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

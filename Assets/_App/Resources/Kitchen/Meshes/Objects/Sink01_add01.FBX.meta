@@ -3,7 +3,12 @@ guid: 1c8703212f0c79b46bd7011d693a99f2
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kitchen_ceramics01_Dirty_INST
+    second: {fileID: 2100000, guid: fd88ac19edf1fcc4f8b972cc6d107619, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

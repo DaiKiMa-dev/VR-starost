@@ -3,7 +3,12 @@ guid: 3d540f2973a7a2b44bb655e91226ac6d
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Refregerator01_INST
+    second: {fileID: 2100000, guid: 15a4e00749ac58540843796229effb89, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

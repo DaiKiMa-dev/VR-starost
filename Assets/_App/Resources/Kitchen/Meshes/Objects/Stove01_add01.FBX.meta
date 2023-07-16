@@ -3,7 +3,12 @@ guid: 66b26974396ad4048974770a488943c7
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Towels01_INST
+    second: {fileID: 2100000, guid: ca3304e71611e7446a382984d6103c29, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

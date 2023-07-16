@@ -3,7 +3,12 @@ guid: df4d0383c5e73c247b538fe16395b063
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Spoon01SkinA
+    second: {fileID: 2100000, guid: c3165e4db45dc52468037d2b1da73527, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

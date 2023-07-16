@@ -3,7 +3,12 @@ guid: 2dcf54f4d1de64b4cb3e5f79514c83f8
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Plinth02
+    second: {fileID: 2100000, guid: 8d56e11913ec14c4ab34b8a9fa748d46, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

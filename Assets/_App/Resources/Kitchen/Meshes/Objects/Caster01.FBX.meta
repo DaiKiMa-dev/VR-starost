@@ -3,7 +3,12 @@ guid: c97d1c4a7597f6c43aa7d797de13d34f
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Castor01_INST
+    second: {fileID: 2100000, guid: 09c78c460b8e749489a8aeda5abede89, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

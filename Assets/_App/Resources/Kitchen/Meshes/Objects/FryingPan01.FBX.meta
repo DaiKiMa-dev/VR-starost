@@ -3,7 +3,12 @@ guid: d8308a9111b5e9045824d7a8e6908aa5
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kitchen_castiron01_INST
+    second: {fileID: 2100000, guid: ae4ae6dd9cad1da4abd81b2bc6ad97e5, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

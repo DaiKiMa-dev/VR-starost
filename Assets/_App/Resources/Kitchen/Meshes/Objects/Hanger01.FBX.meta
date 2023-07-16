@@ -3,7 +3,12 @@ guid: 9e8ba0799162ec347a342b9b2c7c80d6
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hanger01_INST
+    second: {fileID: 2100000, guid: 38e451c1f5ed77e4e96588b0e957395a, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

@@ -3,7 +3,12 @@ guid: f19fd798670bc3d48b8f23de6b75d142
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Taburet01_INST
+    second: {fileID: 2100000, guid: 8d26e47b6bbd6e8428d3fb7c2cb880b6, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

@@ -3,7 +3,12 @@ guid: 60b51658c0a20fc46ba0d7e21cc75ffb
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Spoon01_Dirty_INST
+    second: {fileID: 2100000, guid: 41f9ce98551b343499beb038879dffff, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

@@ -3,7 +3,12 @@ guid: 80a146bac5c2a0b47883e7c4a89efb77
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hood01_Off_INST
+    second: {fileID: 2100000, guid: 71e07cfe5846e0b43a3ecb64b653fa1b, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

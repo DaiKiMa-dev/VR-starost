@@ -3,7 +3,12 @@ guid: 161667dcf60cd4a448ab6dee6633db6c
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Radiator01_Mat
+    second: {fileID: 2100000, guid: be4753a382612754d9632676d3a467bd, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

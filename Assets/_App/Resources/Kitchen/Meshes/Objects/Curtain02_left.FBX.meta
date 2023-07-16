@@ -3,7 +3,12 @@ guid: 27cb983876386794fb723ae7be050133
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Curtain01_Mat
+    second: {fileID: 2100000, guid: 044651dbd19375c45b0e142abbc8a0e0, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

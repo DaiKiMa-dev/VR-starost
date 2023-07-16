@@ -3,7 +3,12 @@ guid: c499f6efdf265d544836da4aa6744df2
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Microwave01_INST
+    second: {fileID: 2100000, guid: 2939aaeebb255f84eb98fd61649b47c2, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

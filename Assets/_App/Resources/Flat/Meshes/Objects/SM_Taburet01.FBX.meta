@@ -3,7 +3,12 @@ guid: 439fc378d6cc00645a86efb094193699
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Taburet01SkinA
+    second: {fileID: 2100000, guid: 5dfd3f148c99ae14799e18d751915af6, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

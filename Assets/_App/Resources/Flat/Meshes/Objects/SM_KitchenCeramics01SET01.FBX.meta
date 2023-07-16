@@ -3,7 +3,12 @@ guid: 22ff754d724727543a52625891790adb
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_KitchenCeramics01SkinA
+    second: {fileID: 2100000, guid: c592b6457fc090d4fb59decc347f0751, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

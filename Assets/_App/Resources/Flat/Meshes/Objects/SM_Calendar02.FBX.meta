@@ -3,7 +3,12 @@ guid: 46ba12819926c274aa0852be06328588
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Calendar02
+    second: {fileID: 2100000, guid: edf04618083b6b04c906e996d5b817f9, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

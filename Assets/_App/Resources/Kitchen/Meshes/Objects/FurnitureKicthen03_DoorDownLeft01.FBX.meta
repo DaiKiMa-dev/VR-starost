@@ -3,7 +3,12 @@ guid: fec0ca7c7245e13499701e67bbe4b130
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kitchen_Furniture01_INST
+    second: {fileID: 2100000, guid: 07d006145c33c1f43b8696375958d2a1, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

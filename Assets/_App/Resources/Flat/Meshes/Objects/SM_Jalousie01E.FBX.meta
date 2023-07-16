@@ -3,7 +3,12 @@ guid: 3dfcd25240fec674ebaf6869074c77a2
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Jalousie01
+    second: {fileID: 2100000, guid: 816ed9222245abd48a1b736e6205cfdf, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

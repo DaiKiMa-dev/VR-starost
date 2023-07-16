@@ -3,7 +3,12 @@ guid: 5b2dd81209663054d902b2f475602e6a
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kitchen_tinplate01_Mat
+    second: {fileID: 2100000, guid: 5e029bb23d057204c873b26ab71bf312, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

@@ -3,7 +3,12 @@ guid: 3773155624c79d94ba2415197e584d98
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FoodBox01_INST
+    second: {fileID: 2100000, guid: f7a02dd553e2d594697ea1e52ef0bfb4, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

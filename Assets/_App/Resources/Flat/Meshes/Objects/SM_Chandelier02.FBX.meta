@@ -3,7 +3,12 @@ guid: 8259a6072616db84aa737231a26ade96
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Chandelier02
+    second: {fileID: 2100000, guid: eb6bd21932d6667488e385bc5bd152bc, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

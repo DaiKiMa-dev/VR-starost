@@ -3,7 +3,12 @@ guid: 7578d9cb5267b4245b1b69994d65d204
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Switchers01_INST
+    second: {fileID: 2100000, guid: fffe2af33e22e9c4499573887ea87d00, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

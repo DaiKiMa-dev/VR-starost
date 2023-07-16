@@ -3,7 +3,12 @@ guid: 71aef86434191554190c509f3a77a878
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_Teapot04
+    second: {fileID: 2100000, guid: 6df3a52875920fc4ab15d5d4e946a331, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

@@ -3,7 +3,12 @@ guid: 70c82fe305391954f9aa58ac0cb55d9e
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_WardrobeWall02
+    second: {fileID: 2100000, guid: d8cc83e8634474e47b64619a838ef520, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

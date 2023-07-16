@@ -3,7 +3,12 @@ guid: 0c3653971f3b9f748bba5a77365189a3
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MI_HeatedTowelRail01
+    second: {fileID: 2100000, guid: e79f58404154cc54795ed54ec36a2fdb, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

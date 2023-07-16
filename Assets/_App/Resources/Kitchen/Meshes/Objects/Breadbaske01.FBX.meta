@@ -3,7 +3,12 @@ guid: 4a9ccc495d1371348ac5af6060ec6ca7
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Breadbasket01_INST
+    second: {fileID: 2100000, guid: ba01b1350a4fff446944a72492249ccd, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
