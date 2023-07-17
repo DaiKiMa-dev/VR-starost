@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0dd63bacb26e97d49a25858d810e7396
+guid: 51538b1f40784694fb1aa70a78cc8138
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -7,33 +7,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Ceiling
-    second: {fileID: 2100000, guid: 350e0a56ff900214c80eb81f88fa28b5, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Floor
-    second: {fileID: 2100000, guid: 46c77b56b2fe53049bf2ef34584266a0, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: M_BathFloor01
-    second: {fileID: 2100000, guid: 46c77b56b2fe53049bf2ef34584266a0, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: M_BathWall01
-    second: {fileID: 2100000, guid: f171baddbb2e01f49a3b86b72fd7bfa8, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: M_PlasterWall01
-    second: {fileID: 2100000, guid: 350e0a56ff900214c80eb81f88fa28b5, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Walls_1
-    second: {fileID: 2100000, guid: bff5a84c379a2f647a3f62d3a62c2064, type: 2}
+      name: lamp_01
+    second: {fileID: 2100000, guid: e771119f13a09004bac2669ceb9bb1b0, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -123,7 +98,7 @@ ModelImporter:
     globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
-    hasExtraRoot: 1
+    hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   autoGenerateAvatarMappingIfUnspecified: 1
