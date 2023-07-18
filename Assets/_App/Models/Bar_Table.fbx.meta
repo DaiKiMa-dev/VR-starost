@@ -10,7 +10,7 @@ ModelImporter:
       name: Bar_Stool_001
     second: {fileID: 2100000, guid: 3754e902018345d47aaa577506734550, type: 2}
   materials:
-    materialImportMode: 2
+    materialImportMode: 0
     materialName: 0
     materialSearch: 1
     materialLocation: 1
