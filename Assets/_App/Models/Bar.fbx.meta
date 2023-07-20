@@ -7,6 +7,16 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Cabinet_Metal
+    second: {fileID: 2100000, guid: 48cca21b7e7650a49bd6c1ac57d82292, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark_Wood
+    second: {fileID: 2100000, guid: ba1b8032c9e7bab4fa238b5db66ca5e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Metal
     second: {fileID: 2100000, guid: 48cca21b7e7650a49bd6c1ac57d82292, type: 2}
   - first:
